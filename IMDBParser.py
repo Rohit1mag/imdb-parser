@@ -82,7 +82,7 @@ pd.set_option('display.max_columns', None)
 pd.options.display.width = 0
 imdbLinks = ["https://www.imdb.com/list/ls057563436/", "https://www.imdb.com/list/ls041125816/", "https://www.imdb.com/list/ls047677021/", "https://www.imdb.com/list/ls062009325/", "https://www.imdb.com/list/ls033133511/", "https://www.imdb.com/list/ls071776440/", "https://www.imdb.com/list/ls059824992/", "https://www.imdb.com/list/ls050944621/"]
 names, ratings, years, mpa = getNamesAndRatings(imdbLinks)
-file5 = open("", "w") #The location(local) where you want to store the table
+file5 = open("", "w") #The desired location(local) of the table
 file5.write(str(sortAndMakeIntoDframe(ratings, names, years, mpa)))
 
 
