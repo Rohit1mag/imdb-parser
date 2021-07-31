@@ -1,0 +1,753 @@
+                                                Names  Ratings  Years MPA Rating
+0                                            Parasite      8.6   2019          R
+1                                        Interstellar      8.6   2014      PG-13
+2                                            Whiplash      8.5   2014          R
+3                                          Your Name.      8.4   2016         PG
+4                               The Dark Knight Rises      8.4   2012      PG-13
+5                                               Joker      8.4   2019          R
+6                                                Coco      8.4   2017         PG
+7                              Avengers: Infinity War      8.4   2018      PG-13
+8                                   Avengers: Endgame      8.4   2019      PG-13
+9                                 The Look of Silence      8.3   2014      PG-13
+10                                               1917      8.3   2019          R
+11                            The Wolf of Wall Street      8.2   2013          R
+12                                              Klaus      8.2   2019         PG
+13                                       Winter Sleep      8.1   2014  Not Rated
+14                                         Wild Tales      8.1   2014          R
+15                           The Grand Budapest Hotel      8.1   2014          R
+16                                          Spotlight      8.1   2015          R
+17                                               Rush      8.1   2013          R
+18                                               Room      8.1   2015          R
+19                                          Prisoners      8.1   2013          R
+20                         Portrait of a Lady on Fire      8.1   2019          R
+21                                              Mommy      8.1   2014          R
+22                                 Mad Max: Fury Road      8.1   2015          R
+23                                      Love, Antosha      8.1   2019          R
+24                                              Logan      8.1   2017          R
+25                                         Inside Out      8.1   2015         PG
+26                                      Hacksaw Ridge      8.1   2016          R
+27                                      Hacksaw Ridge      8.1   2016          R
+28                                          Gone Girl      8.1   2014          R
+29                                     Ford v Ferrari      8.1   2019      PG-13
+30                                   12 Years a Slave      8.1   2013          R
+31                                           Zootopia      8.0   2016         PG
+32                                       The Revenant      8.0   2015          R
+33                                         The Raid 2      8.0   2014          R
+34                                        The Martian      8.0   2015      PG-13
+35                                 The Imitation Game      8.0   2014      PG-13
+36                                       The Avengers      8.0   2012      PG-13
+37                                      Short Term 12      8.0   2013          R
+38                                               Lion      8.0   2016      PG-13
+39                                         La La Land      8.0   2016      PG-13
+40                                                Her      8.0   2013          R
+41                            Guardians of the Galaxy      8.0   2014      PG-13
+42                                           Deadpool      8.0   2016          R
+43                                 Dallas Buyers Club      8.0   2013          R
+44                                        Citizenfour      8.0   2014          R
+45                         X-Men: Days of Future Past      7.9   2014      PG-13
+46                                     Thor: Ragnarok      7.9   2017      PG-13
+47                    The Perks of Being a Wallflower      7.9   2012      PG-13
+48                                         Marvellous      7.9   2014  Not Rated
+49                                     Marriage Story      7.9   2019          R
+50                                         Life of Pi      7.9   2012         PG
+51                                         Knives Out      7.9   2019      PG-13
+52                                        Jojo Rabbit      7.9   2019      PG-13
+53                                       Isle of Dogs      7.9   2018      PG-13
+54                                    I, Daniel Blake      7.9   2016          R
+55                                   Edge of Tomorrow      7.9   2014      PG-13
+56                               Call Me by Your Name      7.9   2017          R
+57                                            Boyhood      7.9   2014          R
+58                                  Bohemian Rhapsody      7.9   2018      PG-13
+59                                    Before Midnight      7.9   2013          R
+60                                            Arrival      7.9   2016      PG-13
+61                                            Arrival      7.9   2016      PG-13
+62                                      A Taxi Driver      7.9   2017  Not Rated
+63                                       The Lunchbox      7.8   2013         PG
+64                                       The Irishman      7.8   2019          R
+65                The Hobbit: The Desolation of Smaug      7.8   2013      PG-13
+66                  The Hobbit: An Unexpected Journey      7.8   2012      PG-13
+67                                  The Hateful Eight      7.8   2015          R
+68                                   The Great Beauty      7.8   2013  Not Rated
+69                                      The Big Short      7.8   2015          R
+70                                     The Best Offer      7.8   2013          R
+71                                     System Crasher      7.8   2019  Not Rated
+72                             Straight Outta Compton      7.8   2015          R
+73         Star Wars: Episode VII - The Force Awakens      7.8   2015      PG-13
+74                       Rogue One: A Star Wars Story      7.8   2016      PG-13
+75                       Rogue One: A Star Wars Story      7.8   2016      PG-13
+76                                       Nightcrawler      7.8   2014          R
+77                                   Moonrise Kingdom      7.8   2012      PG-13
+78                              Manchester by the Sea      7.8   2016          R
+79                              Manchester by the Sea      7.8   2016          R
+80                           Kubo and the Two Strings      7.8   2016         PG
+81                         How to Train Your Dragon 2      7.8   2014         PG
+82                                     Hidden Figures      7.8   2016         PG
+83                                            Dunkirk      7.8   2017      PG-13
+84                                   Captain Phillips      7.8   2013      PG-13
+85                         Captain America: Civil War      7.8   2016      PG-13
+86                                         Big Hero 6      7.8   2014         PG
+87                                                Amy      7.8   2015          R
+88                                     Wreck-It Ralph      7.7   2012         PG
+89                                         Wind River      7.7   2017          R
+90                              When Marnie Was There      7.7   2014         PG
+91                          What We Do in the Shadows      7.7   2014          R
+92                                        Toy Story 4      7.7   2019          G
+93                           The Theory of Everything      7.7   2014      PG-13
+94                                           The Past      7.7   2013      PG-13
+95                                     The Lego Movie      7.7   2014         PG
+96                            Star Trek Into Darkness      7.7   2013      PG-13
+97                                            Skyfall      7.7   2012      PG-13
+98                            Silver Linings Playbook      7.7   2012          R
+99                                           Nebraska      7.7   2013          R
+100                     Mission: Impossible - Fallout      7.7   2018      PG-13
+101                      Kingsman: The Secret Service      7.7   2014          R
+102                      Kingsman: The Secret Service      7.7   2014          R
+103                                           Gravity      7.7   2013      PG-13
+104                                           Get Out      7.7   2017          R
+105                                            Fed Up      7.7   2014         PG
+106                                        Ex Machina      7.7   2014          R
+107                                        Deadpool 2      7.7   2018          R
+108                                      Chce sie zyc      7.7   2013  Not Rated
+109               Captain America: The Winter Soldier      7.7   2014      PG-13
+110                                           Bogowie      7.7   2014  Not Rated
+111                        Blue Is the Warmest Colour      7.7   2013      NC-17
+112   Birdman or (The Unexpected Virtue of Ignorance)      7.7   2014          R
+113                               Beasts of No Nation      7.7   2015      TV-MA
+114                                              Argo      7.7   2012          R
+115                                             Waves      7.6   2019          R
+116                                          Victoria      7.6   2015  Not Rated
+117                          The Peanut Butter Falcon      7.6   2019      PG-13
+118                                    The Impossible      7.6   2012      PG-13
+119                                      The Farewell      7.6   2019         PG
+120                    The Boy Who Harnessed the Wind      7.6   2019      TV-PG
+121                                 Simindis kundzuli      7.6   2014  Not Rated
+122                                           Sicario      7.6   2015          R
+123                                         Searching      7.6   2018      PG-13
+124                                         Philomena      7.6   2013      PG-13
+125                  Once Upon a Time... In Hollywood      7.6   2019          R
+126                                         New World      7.6   2013  Not Rated
+127                                           Mustang      7.6   2015      PG-13
+128                                       Love, Simon      7.6   2018      PG-13
+129                                         Leviathan      7.6   2014          R
+130                                    Les Misérables      7.6   2019          R
+131                                        Just Mercy      7.6   2019      PG-13
+132                                     Incredibles 2      7.6   2018         PG
+133                                    I Lost My Body      7.6   2019      TV-MA
+134                                      Hotel Mumbai      7.6   2018          R
+135                                Hell or High Water      7.6   2016          R
+136                    Guardians of the Galaxy Vol. 2      7.6   2017      PG-13
+137                                              Fury      7.6   2014          R
+138                                      End of Watch      7.6   2012          R
+139                    Dawn of the Planet of the Apes      7.6   2014      PG-13
+140                                             Creed      7.6   2015      PG-13
+141                                       Baby Driver      7.6   2017          R
+142                                    A Star Is Born      7.6   2018          R
+143                                           Upgrade      7.5   2018          R
+144                                    The Lighthouse      7.5   2019          R
+145                                     The Conjuring      7.5   2013          R
+146                                    The Book Thief      7.5   2013      PG-13
+147                                      The Big Sick      7.5   2017          R
+148                         Spider-Man: Far from Home      7.5   2019      PG-13
+149                                       Son of Saul      7.5   2015          R
+150                                             Selma      7.5   2014      PG-13
+151                                  Saving Mr. Banks      7.5   2013      PG-13
+152                                        Risttuules      7.5   2014  Not Rated
+153                                    Richard Jewell      7.5   2019          R
+154                                    Phantom Thread      7.5   2017          R
+155                                 Our Little Sister      7.5   2015         PG
+156                                              Omar      7.5   2013  Not Rated
+157                                     Lone Survivor      7.5   2013          R
+158                              John Wick: Chapter 2      7.5   2017          R
+159                               Inside Llewyn Davis      7.5   2013          R
+160                                          I, Tonya      7.5   2017          R
+161                                            Gueros      7.5   2014  Not Rated
+162                                 Fruitvale Station      7.5   2013          R
+163                                    Doctor Strange      7.5   2016      PG-13
+164                                          Brooklyn      7.5   2015      PG-13
+165                                    BlacKkKlansman      7.5   2018          R
+166                                     A Quiet Place      7.5   2018      PG-13
+167                                                42      7.5   2013      PG-13
+168                                      Wonder Woman      7.4   2017      PG-13
+169                    War for the Planet of the Apes      7.4   2017      PG-13
+170                                        Uncut Gems      7.4   2019          R
+171                                     The Nice Guys      7.4   2016          R
+172                                   The Jungle Book      7.4   2016         PG
+173                                         The Judge      7.4   2014          R
+174         The Hobbit: The Battle of the Five Armies      7.4   2014      PG-13
+175                                          Terrance      7.4   2014  Not Rated
+176                                             Sully      7.4   2016      PG-13
+177                                        Starred Up      7.4   2013  Not Rated
+178                            Spider-Man: Homecoming      7.4   2017      PG-13
+179                                          Southpaw      7.4   2015          R
+180                                  Ready Player One      7.4   2018      PG-13
+181                                    Queen of Katwe      7.4   2016         PG
+182                                      Patriots Day      7.4   2016          R
+183                                      Patriots Day      7.4   2016          R
+184                                           Papusza      7.4   2013          G
+185                                          Mudbound      7.4   2017          R
+186                                         Moonlight      7.4   2016          R
+187                                      Molly's Game      7.4   2017          R
+188                Mission: Impossible - Rogue Nation      7.4   2015      PG-13
+189                                    McFarland, USA      7.4   2015         PG
+190                Marvel One-Shot: All Hail the King      7.4   2014  Not Rated
+191                                      Love & Mercy      7.4   2014      PG-13
+192                                      Love & Mercy      7.4   2014      PG-13
+193                                            Looper      7.4   2012          R
+194                 John Wick: Chapter 3 - Parabellum      7.4   2019          R
+195                                         John Wick      7.4   2014          R
+196                                               Ida      7.4   2013      PG-13
+197                                         Good Time      7.4   2017          R
+198                                            Frozen      7.4   2013         PG
+199               El patrón, radiografía de un crimen      7.4   2014  Not Rated
+200                                   Eddie the Eagle      7.4   2015      PG-13
+201                                          De Palma      7.4   2015          R
+202                                       Cloud Atlas      7.4   2012          R
+203                                      Child's Pose      7.4   2013  Not Rated
+204                                       Cartel Land      7.4   2015          R
+205                                           Calvary      7.4   2014          R
+206         A Brave Heart: The Lizzie Velasquez Story      7.4   2015      PG-13
+207                               Two Days, One Night      7.3   2014      PG-13
+208                                 The Selfish Giant      7.3   2013  Not Rated
+209                   The Secret Life of Walter Mitty      7.3   2013         PG
+210                                   The Nightingale      7.3   2018          R
+211                           The Man from U.N.C.L.E.      7.3   2015      PG-13
+212                               The End of the Tour      7.3   2015          R
+213                             The Edge of Seventeen      7.3   2016          R
+214                      The Ballad of Buster Scruggs      7.3   2018          R
+215                                    The Accountant      7.3   2016          R
+216                                             Split      7.3   2016      PG-13
+217                                       Shot Caller      7.3   2017          R
+218                             Shaun the Sheep Movie      7.3   2015         PG
+219                                         Rocketman      7.3   2019          R
+220                             Rise of the Guardians      7.3   2012         PG
+221                            Only Lovers Left Alive      7.3   2013          R
+222                                              Okja      7.3   2017      TV-MA
+223                                  Midnight Runners      7.3   2017  Not Rated
+224                                           Lincoln      7.3   2012      PG-13
+225                                           Lawless      7.3   2012          R
+226                                                It      7.3   2017          R
+227                                         Honey Boy      7.3   2019          R
+228                                        Hereditary      7.3   2018          R
+229                                           Greater      7.3   2016         PG
+230                                     Force Majeure      7.3   2014          R
+231                                            Flight      7.3   2012          R
+232                                         First Man      7.3   2018      PG-13
+233           Fantastic Beasts and Where to Find Them      7.3   2016      PG-13
+234           Fantastic Beasts and Where to Find Them      7.3   2016      PG-13
+235                                    Eye in the Sky      7.3   2015          R
+236                   El Camino: A Breaking Bad Movie      7.3   2019      TV-MA
+237                                          Drogówka      7.3   2012  Not Rated
+238                               Dolemite Is My Name      7.3   2019          R
+239                                      Doctor Sleep      7.3   2019          R
+240                                           Detroit      7.3   2017          R
+241                                   Despicable Me 2      7.3   2013         PG
+242                                 Christopher Robin      7.3   2018         PG
+243                                      Brigsby Bear      7.3   2017      PG-13
+244                                      Blue Jasmine      7.3   2013      PG-13
+245                                     Black Panther      7.3   2018      PG-13
+246                       Beasts of the Southern Wild      7.3   2012      PG-13
+247                           Avengers: Age of Ultron      7.3   2015      PG-13
+248                                           Ant-Man      7.3   2015      PG-13
+249                                         Anomalisa      7.3   2015          R
+250                                   American Sniper      7.3   2014          R
+251                               Alita: Battle Angel      7.3   2019      PG-13
+252                                          13 Hours      7.3   2016          R
+253                                      Venus in Fur      7.2   2013  Not Rated
+254                                          Unbroken      7.2   2014      PG-13
+255                                             Trash      7.2   2014          R
+256                                          Timbuktu      7.2   2014      PG-13
+257                                          The Post      7.2   2017      PG-13
+258                                        The Master      7.2   2012          R
+259                                       The Lobster      7.2   2015          R
+260                                          The King      7.2   2019          R
+261                                  The Hunger Games      7.2   2012      PG-13
+262                                  The Great Gatsby      7.2   2013      PG-13
+263                                       The Founder      7.2   2016      PG-13
+264                                     The Equalizer      7.2   2014          R
+265                                        The Croods      7.2   2013         PG
+266                                        Steve Jobs      7.2   2015          R
+267                                           Silence      7.2   2016          R
+268                                 Seven Psychopaths      7.2   2012          R
+269                                       Ruby Sparks      7.2   2012          R
+270                                         Rich Hill      7.2   2014  Not Rated
+271                                         Paddleton      7.2   2019      TV-MA
+272                                        Paddington      7.2   2014         PG
+273                               Monsters University      7.2   2013          G
+274                                           Lilting      7.2   2014  Not Rated
+275                                               Jîn      7.2   2013  Not Rated
+276                         In Order of Disappearance      7.2   2014          R
+277                                          Hostiles      7.2   2017          R
+278                                              Fyre      7.2   2019      TV-MA
+279                                            Fences      7.2   2016      PG-13
+280                                              Dope      7.2   2015          R
+281                                           Dheepan      7.2   2015          R
+282                                             Carol      7.2   2015          R
+283                            Brawl in Cell Block 99      7.2   2017  Not Rated
+284                                         Booksmart      7.2   2019          R
+285                              August: Osage County      7.2   2013          R
+286                     American Wrestler: The Wizard      7.2   2016      PG-13
+287                                     American Made      7.2   2017          R
+288                                   American Hustle      7.2   2013          R
+289                                        A Hard Day      7.2   2014  Not Rated
+290                                    21 Jump Street      7.2   2012          R
+291                               10 Cloverfield Lane      7.2   2016      PG-13
+292                                               '71      7.2   2014          R
+293                                              Wild      7.1   2014          R
+294                                          War Dogs      7.1   2016          R
+295                 To All the Boys I've Loved Before      7.1   2018      TV-14
+296              The Young and Prodigious T.S. Spivet      7.1   2013         PG
+297                                 The Peanuts Movie      7.1   2015          G
+298                                    The One I Love      7.1   2014          R
+299                               The Kings of Summer      7.1   2013          R
+300                                  The Glass Castle      7.1   2017      PG-13
+301                             The Battleship Island      7.1   2017  Not Rated
+302                                         Tangerine      7.1   2015          R
+303                                       Snowpiercer      7.1   2013          R
+304                                      Side Effects      7.1   2013          R
+305                       Sicario: Day of the Soldado      7.1   2018          R
+306                                      Queen & Slim      7.1   2019          R
+307                                     Pitch Perfect      7.1   2012      PG-13
+308                                    People Like Us      7.1   2012      PG-13
+309                                         Mu ji zhe      7.1   2017  Not Rated
+310                                         Midsommar      7.1   2019          R
+311                                      Megan Leavey      7.1   2017      PG-13
+312                     Mandela: Long Walk to Freedom      7.1   2013      PG-13
+313                                             Locke      7.1   2013          R
+314                                   Kung Fu Panda 3      7.1   2016         PG
+315                                       Jack Strong      7.1   2014  Not Rated
+316                                    Iron Man Three      7.1   2013      PG-13
+317                                Hotel Transylvania      7.1   2012         PG
+318                                         Furious 7      7.1   2015      PG-13
+319                                             Filth      7.1   2013          R
+320                           Fighting with My Family      7.1   2019      PG-13
+321                                           Everest      7.1   2015      PG-13
+322                                             Dredd      7.1   2012          R
+323                                     Don't Breathe      7.1   2016          R
+324                                          Creed II      7.1   2018      PG-13
+325                                             Brave      7.1   2012         PG
+326                                     Bone Tomahawk      7.1   2015  Not Rated
+327                        Bad Times at the El Royale      7.1   2018          R
+328                                    A Touch of Sin      7.1   2013  Not Rated
+329                                          99 Homes      7.1   2014          R
+330                                       World War Z      7.0   2013      PG-13
+331                                        Unforgiven      7.0   2013          R
+332                                             Tully      7.0   2018          R
+333                                   Tom at the Farm      7.0   2013  Not Rated
+334                                   The World's End      7.0   2013          R
+335                                         The Tribe      7.0   2014    Unrated
+336                                          The Gift      7.0   2015          R
+337                                     The Foreigner      7.0   2017          R
+338                                          The Dirt      7.0   2019      TV-MA
+339           Star Wars: Episode VIII - The Last Jedi      7.0   2017      PG-13
+340                                               Spy      7.0   2015          R
+341                                           Shazam!      7.0   2019      PG-13
+342                             Safety Not Guaranteed      7.0   2012          R
+343                         Ralph Breaks the Internet      7.0   2018         PG
+344                                        Prometheus      7.0   2012          R
+345                                    Pawn Sacrifice      7.0   2014      PG-13
+346                                        Passengers      7.0   2016      PG-13
+347                                        ParaNorman      7.0   2012         PG
+348                                          Oblivion      7.0   2013      PG-13
+349                                      Man of Steel      7.0   2013      PG-13
+350                                       Logan Lucky      7.0   2017      PG-13
+351                                    Jurassic World      7.0   2015      PG-13
+352                                             Ikari      7.0   2016  Not Rated
+353                                He Named Me Malala      7.0   2015      PG-13
+354                                        Green Room      7.0   2015          R
+355                                              Gook      7.0   2017    Unrated
+356                                    Get the Gringo      7.0   2012          R
+357                                             Frank      7.0   2014          R
+358                                        Foxcatcher      7.0   2014          R
+359                                    Den of Thieves      7.0   2018          R
+360                                         Chronicle      7.0   2012      PG-13
+361                                 Boyka: Undisputed      7.0   2016          R
+362                                          Big Eyes      7.0   2014      PG-13
+363                              Ant-Man and the Wasp      7.0   2018      PG-13
+364                               A Most Violent Year      7.0   2014          R
+365                  A Girl Walks Home Alone at Night      7.0   2014  Not Rated
+366                                            Widows      6.9   2018          R
+367                                         White God      6.9   2014          R
+368                                   Uklad zamkniety      6.9   2013  Not Rated
+369                                            Trance      6.9   2013          R
+370                The VVitch: A New-England Folktale      6.9   2015          R
+371                    The Stanford Prison Experiment      6.9   2015          R
+372                                       The Mustang      6.9   2019          R
+373                             The Magnificent Seven      6.9   2016      PG-13
+374                            The Hitman's Bodyguard      6.9   2017          R
+375                                    The Highwaymen      6.9   2019          R
+376                       The Diary of a Teenage Girl      6.9   2015          R
+377                            The Amazing Spider-Man      6.9   2012      PG-13
+378                                               Ted      6.9   2012          R
+379                                       Suffragette      6.9   2015      PG-13
+380                                          Stronger      6.9   2017          R
+381                           Solo: A Star Wars Story      6.9   2018      PG-13
+382                                              Sold      6.9   2014      PG-13
+383                                         Slow West      6.9   2015          R
+384                                Pod mocnym aniolem      6.9   2014  Not Rated
+385                              People Places Things      6.9   2015          R
+386                                       Pacific Rim      6.9   2013      PG-13
+387                                       Outlaw King      6.9   2018          R
+388                              Nymphomaniac: Vol. I      6.9   2013  Not Rated
+389                              Mountains May Depart      6.9   2015  Not Rated
+390                                             Monos      6.9   2019          R
+391                                Kill the Messenger      6.9   2014          R
+392                                               Joe      6.9   2013          R
+393       I Don't Feel at Home in This World Anymore.      6.9   2017      TV-MA
+394                                        Game Night      6.9   2018          R
+395                                     Frankenweenie      6.9   2012         PG
+396                            Everybody Wants Some!!      6.9   2016          R
+397                                             Enemy      6.9   2013          R
+398                           Dragged Across Concrete      6.9   2018          R
+399                                 Crazy Rich Asians      6.9   2018      PG-13
+400                                        Cinderella      6.9   2015         PG
+401                                         Christine      6.9   2016          R
+402                                  Borg vs. McEnroe      6.9   2017          R
+403                                        Black Mass      6.9   2015          R
+404                                           Aquaman      6.9   2018      PG-13
+405                                       All Is Lost      6.9   2013      PG-13
+406                        You Were Never Really Here      6.8   2017          R
+407                                                Us      6.8   2019          R
+408                                           The Vow      6.8   2012      PG-13
+409                            The Pirates of Somalia      6.8   2017          R
+410                              The Measure of a Man      6.8   2015  Not Rated
+411                                          The East      6.8   2013      PG-13
+412                                     The Boxtrolls      6.8   2014         PG
+413                           The Autopsy of Jane Doe      6.8   2016          R
+414                                            Stoker      6.8   2013          R
+415                                           Spectre      6.8   2015      PG-13
+416                                          Sinister      6.8   2012          R
+417                                       Patti Cake$      6.8   2017          R
+418                                 Of Horses and Men      6.8   2013  Not Rated
+419                                          Nordvest      6.8   2013  Not Rated
+420                                        Mr. Turner      6.8   2014          R
+421                                         Mia madre      6.8   2015          R
+422                                    Men in Black 3      6.8   2012      PG-13
+423                                            Man Up      6.8   2015          R
+424                Madagascar 3: Europe's Most Wanted      6.8   2012         PG
+425                                         Long Shot      6.8   2019          R
+426                                       Jersey Boys      6.8   2014          R
+427                                        It Follows      6.8   2014          R
+428                                        It Follows      6.8   2014          R
+429                                              Heli      6.8   2013  Not Rated
+430                                          Hatsukoi      6.8   2019      TV-MA
+431                                            Gloria      6.8   2013          R
+432                                         Frozen II      6.8   2019         PG
+433                                    Captain Marvel      6.8   2019      PG-13
+434                                         Bumblebee      6.8   2018      PG-13
+435                          Brittany Runs a Marathon      6.8   2019          R
+436                                           Borgman      6.8   2013  Not Rated
+437                                         Bombshell      6.8   2019          R
+438                                    Bleed for This      6.8   2016          R
+439                             Blade of the Immortal      6.8   2017          R
+440                                    Big Bad Wolves      6.8   2013  Not Rated
+441                                            Arctic      6.8   2018      PG-13
+442                                      Annihilation      6.8   2018          R
+443                                Always Be My Maybe      6.8   2019      PG-13
+444                                    A Simple Favor      6.8   2018          R
+445              A Shaun the Sheep Movie: Farmageddon      6.8   2019          G
+446                                 A Most Wanted Man      6.8   2014          R
+447                                             Xenia      6.7   2014    Unrated
+448                                   Viceroy's House      6.7   2017  Not Rated
+449                                             Venom      6.7   2018      PG-13
+450                                    Upstream Color      6.7   2013  Not Rated
+451                                         Turbo Kid      6.7   2015  Not Rated
+452                                    The Villainess      6.7   2017  Not Rated
+453                      The Pirates! Band of Misfits      6.7   2012         PG
+454                                   The Equalizer 2      6.7   2018          R
+455                                          Suspiria      6.7   2018          R
+456         Seeking a Friend for the End of the World      6.7   2012          R
+457                                        Safe House      6.7   2012          R
+458                Popstar: Never Stop Never Stopping      6.7   2016          R
+459                                    Paradise: Hope      6.7   2013    Unrated
+460                             Nymphomaniac: Vol. II      6.7   2013  Not Rated
+461                                  Mistress America      6.7   2015          R
+462                              Mary Poppins Returns      6.7   2018         PG
+463                                              Luce      6.7   2019          R
+464                       Kingsman: The Golden Circle      6.7   2017          R
+465                  King Arthur: Legend of the Sword      6.7   2017      PG-13
+466                                     Inherent Vice      6.7   2014          R
+467                         I'll See You in My Dreams      6.7   2015      PG-13
+468                                       I Am Mother      6.7   2019      TV-14
+469                                    Hardcore Henry      6.7   2015          R
+470                                           Grandma      6.7   2015          R
+471                                   Goodnight Mommy      6.7   2014          R
+472                                    Gangster Squad      6.7   2013          R
+473        Extremely Wicked, Shockingly Evil and Vile      6.7   2019          R
+474                              Clouds of Sils Maria      6.7   2014          R
+475                                 Bon Cop Bad Cop 2      6.7   2017  Not Rated
+476                               Battle of the Sexes      6.7   2017      PG-13
+477                                     Atomic Blonde      6.7   2017          R
+478                                  American Reunion      6.7   2012          R
+479                                             Alpha      6.7   2018      PG-13
+480                                        Warsaw '44      6.6   2014  Not Rated
+481                                   This Is the End      6.6   2013          R
+482                     The Odd Life of Timothy Green      6.6   2012         PG
+483                 The Lego Movie 2: The Second Part      6.6   2019         PG
+484                                     The Immigrant      6.6   2013          R
+485                                      The Homesman      6.6   2014          R
+486                                   The Grandmaster      6.6   2013      PG-13
+487                                   The Final Girls      6.6   2015      PG-13
+488                           The Fate of the Furious      6.6   2017      PG-13
+489                                 The Expendables 2      6.6   2012          R
+490                                 The Bourne Legacy      6.6   2012      PG-13
+491                           The Art of Self-Defense      6.6   2019          R
+492                          The Amazing Spider-Man 2      6.6   2014      PG-13
+493                                  Super Dark Times      6.6   2017  Not Rated
+494                                Sing-geul ra-i-deo      6.6   2017  Not Rated
+495                                     Run All Night      6.6   2015          R
+496                                       Red Sparrow      6.6   2018          R
+497                                         Project X      6.6   2012          R
+498                                          Plus One      6.6   2019  Not Rated
+499                                      Peter Rabbit      6.6   2018         PG
+500                                          Overlord      6.6   2018          R
+501                                           Mother!      6.6   2017          R
+502                                  Midnight Special      6.6   2016      PG-13
+503                                    Man on a Ledge      6.6   2012      PG-13
+504                       Mamma Mia! Here We Go Again      6.6   2018      PG-13
+505                                           Macbeth      6.6   2015          R
+506                                 Louder Than Bombs      6.6   2015          R
+507                                              Life      6.6   2017          R
+508                                Kong: Skull Island      6.6   2017      PG-13
+509                                       John Carter      6.6   2012      PG-13
+510                                      Jason Bourne      6.6   2016      PG-13
+511                                    In the Name Of      6.6   2013  Not Rated
+512                                   Happy Death Day      6.6   2017      PG-13
+513                                             Glass      6.6   2019      PG-13
+514                                           Chronic      6.6   2015          R
+515                                           Bag Man      6.6   2014  Not Rated
+516                                         Arbitrage      6.6   2012          R
+517                                            Adrift      6.6   2018      PG-13
+518                                        21 Bridges      6.6   2019          R
+519                                         12 Strong      6.6   2018          R
+520                        Walesa. Czlowiek z nadziei      6.5   2013  Not Rated
+521       Valerian and the City of a Thousand Planets      6.5   2017      PG-13
+522                                  Think Like a Man      6.5   2012      PG-13
+523                                       The Program      6.5   2015          R
+524                                     The Lucky One      6.5   2012      PG-13
+525                                        The Double      6.5   2013          R
+526                                          The DUFF      6.5   2015      PG-13
+527                                      The Congress      6.5   2013  Not Rated
+528                                               Tag      6.5   2018          R
+529                        Sleeping with Other People      6.5   2015          R
+530                                  Serce, serduszko      6.5   2014  Not Rated
+531                                       Secret Wars      6.5   2014  Not Rated
+532                                           Savages      6.5   2012          R
+533                                              Safe      6.5   2012          R
+534                                      Premium Rush      6.5   2012      PG-13
+535  Pirates of the Caribbean: Dead Men Tell No Tales      6.5   2017      PG-13
+536                                        Masterchef      6.5   2014  Not Rated
+537                                             Mandy      6.5   2018  Not Rated
+538                                        Late Night      6.5   2019          R
+539                                    It Chapter Two      6.5   2019          R
+540                        Ice Age: Continental Drift      6.5   2012         PG
+541                                         Halloween      6.5   2018          R
+542                                     Gerald's Game      6.5   2017      TV-MA
+543       Fantastic Beasts: The Crimes of Grindelwald      6.5   2018      PG-13
+544                            Escobar: Paradise Lost      6.5   2014          R
+545                                      Crimson Peak      6.5   2015          R
+546                                       Big Miracle      6.5   2012         PG
+547                                  Better Watch Out      6.5   2016          R
+548                               Annabelle: Creation      6.5   2017          R
+549                                          Ad Astra      6.5   2019      PG-13
+550                                      Act of Valor      6.5   2012          R
+551                              Vic + Flo Saw a Bear      6.4   2013  Not Rated
+552                                   Un etaj mai jos      6.4   2015  Not Rated
+553                                   Triple Frontier      6.4   2019          R
+554                                The Woman in Black      6.4   2012      PG-13
+555                                         The Raven      6.4   2012          R
+556                                  The Night Before      6.4   2015          R
+557                                         The Lorax      6.4   2012         PG
+558                                   The Lone Ranger      6.4   2013      PG-13
+559                                      The Dictator      6.4   2012          R
+560                                 The Devil's Candy      6.4   2015  Not Rated
+561                                Step Up Revolution      6.4   2012      PG-13
+562                                   Pitch Perfect 2      6.4   2015      PG-13
+563                                       Nightingale      6.4   2014  Not Rated
+564                                  Mother of George      6.4   2013          R
+565                                 Mississippi Grind      6.4   2015          R
+566                                       Miles Ahead      6.4   2015          R
+567                                            Mayhem      6.4   2017    Unrated
+568                                 Matar a un hombre      6.4   2014      TV-14
+569                               Here Comes the Boom      6.4   2012         PG
+570                                          Headshot      6.4   2016  Not Rated
+571                                          Godzilla      6.4   2014      PG-13
+572                                         Free Fire      6.4   2016          R
+573                                       Escape Room      6.4   2019      PG-13
+574                                        Contraband      6.4   2012          R
+575                                          Betoniyö      6.4   2013    Unrated
+576                Batman v Superman: Dawn of Justice      6.4   2016      PG-13
+577                                  Angel Has Fallen      6.4   2019          R
+578                                   Alien: Covenant      6.4   2017          R
+579                          Ain't Them Bodies Saints      6.4   2013          R
+580                             Underworld: Awakening      6.3   2012          R
+581                                    Under the Skin      6.3   2013          R
+582                                       Tomb Raider      6.3   2018      PG-13
+583                                 To Rome with Love      6.3   2012          R
+584                                    This Means War      6.3   2012      PG-13
+585                                       The Meddler      6.3   2015      PG-13
+586                                    The Laundromat      6.3   2019          R
+587                                    The Last Stand      6.3   2013          R
+588                                        The Grinch      6.3   2018         PG
+589                                     The Goldfinch      6.3   2019          R
+590                                      The Commuter      6.3   2018      PG-13
+591                                           The Bar      6.3   2017  Not Rated
+592                         The Ballad of Lefty Brown      6.3   2017          R
+593                                    The Babysitter      6.3   2017      TV-MA
+594                                      The Assassin      6.3   2015  Not Rated
+595                                             Ted 2      6.3   2015          R
+596                                           Taken 2      6.3   2012      PG-13
+597                                        Shock Wave      6.3   2017  Not Rated
+598                                  Plynace wiezowce      6.3   2013  Not Rated
+599                                     Ocean's Eight      6.3   2018      PG-13
+600                       Maze Runner: The Death Cure      6.3   2018      PG-13
+601                                   Little Monsters      6.3   2019          R
+602                                        Lights Out      6.3   2016      PG-13
+603                                Lady and the Tramp      6.3   2019         PG
+604                                          Hustlers      6.3   2019          R
+605             Hotel Transylvania 3: Summer Vacation      6.3   2018         PG
+606                                      Hope Springs      6.3   2012      PG-13
+607                                     Hail, Caesar!      6.3   2016      PG-13
+608                                       Guns Akimbo      6.3   2019          R
+609                                Ghost in the Shell      6.3   2017      PG-13
+610                                             Furie      6.3   2019      TV-14
+611                                        Death Wish      6.3   2018          R
+612                                          Deadfall      6.3   2012          R
+613                                     Crooked House      6.3   2017      PG-13
+614                                           Cop Car      6.3   2015          R
+615                                         Cleanskin      6.3   2012  Not Rated
+616                              Central Intelligence      6.3   2016      PG-13
+617                                        Ballet 422      6.3   2014         PG
+618                                A Field in England      6.3   2013  Not Rated
+619                                              1922      6.3   2017      TV-MA
+620                                          Villains      6.2   2019          R
+621                                     Transcendence      6.2   2014      PG-13
+622                                        Trainwreck      6.2   2015          R
+623                                      Total Recall      6.2   2012      PG-13
+624                                    The Perfection      6.2   2018      TV-MA
+625                          The Five-Year Engagement      6.2   2012          R
+626                              Take Me to the River      6.2   2015  Not Rated
+627                                    Sweet Virginia      6.2   2017          R
+628                                        Red Lights      6.2   2012          R
+629                                      Phil Spector      6.2   2013      TV-MA
+630                                           Krampus      6.2   2015      PG-13
+631                               Killing Them Softly      6.2   2012          R
+632                               Kamienie na szaniec      6.2   2014  Not Rated
+633                    Jurassic World: Fallen Kingdom      6.2   2018      PG-13
+634                                  High Flying Bird      6.2   2019      TV-MA
+635                                Happy Death Day 2U      6.2   2019      PG-13
+636                                        Girls Trip      6.2   2017          R
+637                                      Dark Shadows      6.2   2012      PG-13
+638                                Color Out of Space      6.2   2019    Unrated
+639                                          Blockers      6.2   2018          R
+640                   Billy Lynn's Long Halftime Walk      6.2   2016          R
+641                             The Spy Who Dumped Me      6.1   2018          R
+642                                 The Monuments Men      6.1   2014      PG-13
+643                                         The Lodge      6.1   2019          R
+644                                        The Killer      6.1   2017  Not Rated
+645               The House with a Clock in Its Walls      6.1   2018         PG
+646                      The Girl in the Spider's Web      6.1   2018          R
+647                                       The Gambler      6.1   2014          R
+648                                      The Campaign      6.1   2012          R
+649                       Snow White and the Huntsman      6.1   2012      PG-13
+650                                     Sausage Party      6.1   2016          R
+651                                           Rampage      6.1   2018      PG-13
+652                                       On the Road      6.1   2012          R
+653                                           Mile 22      6.1   2018          R
+654                                        Magic Mike      6.1   2012          R
+655                                           Lockout      6.1   2012      PG-13
+656                                    Justice League      6.1   2017      PG-13
+657                                     Hotel Artemis      6.1   2018          R
+658                                  Hot Girls Wanted      6.1   2015      TV-MA
+659                                           Hellion      6.1   2013          R
+660                                      God's Pocket      6.1   2014          R
+661                                          Excision      6.1   2012  Not Rated
+662                                 Daniel Isn't Real      6.1   2019  Not Rated
+663                                            Code 8      6.1   2019  Not Rated
+664                                         Book Club      6.1   2018      PG-13
+665                                   Z for Zachariah      6.0   2015      PG-13
+666          The SpongeBob Movie: Sponge Out of Water      6.0   2015         PG
+667                          The Purge: Election Year      6.0   2016          R
+668                                 The Kissing Booth      6.0   2018      TV-14
+669                         The Kid Who Would Be King      6.0   2019         PG
+670                                           The Boy      6.0   2016      PG-13
+671                                  Super Troopers 2      6.0   2018          R
+672                                         Overboard      6.0   2018      PG-13
+673                  Mike and Dave Need Wedding Dates      6.0   2016          R
+674                                          Jaskólka      6.0   2014  Not Rated
+675                                            Honour      6.0   2014  Not Rated
+676                    Godzilla: King of the Monsters      6.0   2019      PG-13
+677                                    Daddy's Home 2      6.0   2017      PG-13
+678                                     Come to Daddy      6.0   2019          R
+679                                     Captive State      6.0   2019      PG-13
+680                                         Bloodline      6.0   2018          R
+681                                 Beatriz at Dinner      6.0   2017          R
+682                                          The Void      5.9   2016  Not Rated
+683                                      The Tall Man      5.9   2012          R
+684                                       The Prodigy      5.9   2019          R
+685                                    The Possession      5.9   2012      PG-13
+686                              The Breaker Upperers      5.9   2018  Not Rated
+687                                     Suicide Squad      5.9   2016      PG-13
+688                                      Rock of Ages      5.9   2012      PG-13
+689                                         Red Tails      5.9   2012      PG-13
+690                            Office Christmas Party      5.9   2016          R
+691                                 Isn't It Romantic      5.9   2019      PG-13
+692                                          Iron Sky      5.9   2012          R
+693                                              Gone      5.9   2012      PG-13
+694                   Abraham Lincoln: Vampire Hunter      5.9   2012          R
+695                                             V/H/S      5.8   2012          R
+696                                        Uncle Drew      5.8   2018      PG-13
+697                                        Skyscraper      5.8   2018      PG-13
+698                  Journey 2: The Mysterious Island      5.8   2012         PG
+699                       Goon: Last of the Enforcers      5.8   2017          R
+700                                        Extinction      5.8   2018      TV-MA
+701                                         Boulevard      5.8   2014          R
+702                                        Battleship      5.8   2012      PG-13
+703                                      American Son      5.8   2019      TV-MA
+704                               Wrath of the Titans      5.7   2012      PG-13
+705                                 Only God Forgives      5.7   2013          R
+706                                          Obywatel      5.7   2014  Not Rated
+707                                              Noah      5.7   2014      PG-13
+708                      Neighbors 2: Sorority Rising      5.7   2016          R
+709                                        Lost River      5.7   2014          R
+710                           Insidious: The Last Key      5.7   2018      PG-13
+711                                         Dismissed      5.7   2017  Not Rated
+712                                  Assassin's Creed      5.7   2016      PG-13
+713                                       A Vigilante      5.7   2018          R
+714                The Nutcracker and the Four Realms      5.6   2018         PG
+715                                           The Meg      5.6   2018      PG-13
+716                             Pacific Rim: Uprising      5.6   2018      PG-13
+717                                      Night School      5.6   2018      PG-13
+718                       Men in Black: International      5.6   2019      PG-13
+719                                     Male stluczki      5.6   2014  Not Rated
+720                                 Life of the Party      5.6   2018      PG-13
+721                                     Hold the Dark      5.6   2018      TV-MA
+722                                     Hardkor Disko      5.6   2014  Not Rated
+723         The Twilight Saga: Breaking Dawn - Part 2      5.5   2012      PG-13
+724                           The Cloverfield Paradox      5.5   2018      PG-13
+725                                              Mute      5.5   2018      TV-MA
+726                                     I Feel Pretty      5.5   2018      PG-13
+727                       The Man with the Iron Fists      5.4   2012          R
+728                             The Happytime Murders      5.4   2018          R
+729                                       The Falling      5.4   2014  Not Rated
+730                        Resident Evil: Retribution      5.4   2012          R
+731                                     Gods of Egypt      5.4   2016      PG-13
+732                                      The Predator      5.3   2018          R
+733                                           The Nun      5.3   2018          R
+734                           The Curse of La Llorona      5.3   2019          R
+735                                        Robin Hood      5.3   2018      PG-13
+736                                     Truth or Dare      5.2   2018      PG-13
+737                                   The First Purge      5.2   2018          R
+738                                 See You Yesterday      5.2   2019      TV-MA
+739                                         Nieulotne      5.1   2013  Not Rated
+740                           Silent Hill: Revelation      5.0   2012          R
+741                                       How It Ends      5.0   2018      TV-MA
+742                                       Knock Knock      4.9   2015          R
+743                                         The Titan      4.8   2018      TV-MA
+744                                Fifty Shades Freed      4.5   2018          R
+745                                 A Wrinkle in Time      4.2   2018         PG
+746                                 Norm of the North      3.4   2015         PG
+747                                       Slender Man      3.2   2018      PG-13
+748                                Notes on Blindness      1.0   2014  Not Rated
+749                                          Hotel 22      1.0   2014  Not Rated
+750                                            Beasts      1.0   2014  Not Rated
+751                                          Syjamscy      0.0   2014  Not Rated
